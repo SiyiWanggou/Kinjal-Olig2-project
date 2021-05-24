@@ -2,7 +2,7 @@
 
 Link to Xi Huang Lab:https://lab.research.sickkids.ca/huang/
 
-This code repository is supportive for single cell RNAseq analysis of Olig2 project, which is collaborated with Peter Dirk lab.
+This code repository is supportive for single cell RNAseq analysis of Olig2 project, which is collaborated with Peter Dirks lab.
 
 ## **Introduction**
 
